@@ -1,0 +1,27 @@
+{
+  "name": "zadanie01",
+  "version": "1.0.0",
+  "description": "Zadanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyovh/zadanie01.git"
+  },
+  "keywords": [
+    "równianie"
+  ],
+  "author": "Stanisław Romek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyovh/zadanie01/issues"
+  },
+  "homepage": "https://github.com/happyovh/zadanie01#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.1.0"
+  }
+}

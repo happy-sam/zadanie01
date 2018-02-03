@@ -8,14 +8,12 @@ if (value > 0) {
     document.write("zmienna b = " + b + "<br>");
     document.write("zmienna c = " + c + "<br>");
     document.write("<span class='wartosc'>" + "Wartość jest dodatnia i wynosi " + value + "</span>");
-}
-else if (value < 0) {
+} else if (value < 0) {
     document.write("zmienna a = " + a + "<br>");
     document.write("zmienna b = " + b + "<br>");
     document.write("zmienna c = " + c + "<br>");
     document.write("<span class='wartosc'>" + "Wartość jest ujemna i wynosi " + value + "</span>");
-}
-else {
+} else {
     document.write("zmienna a = " + a + "<br>");
     document.write("zmienna b = " + b + "<br>");
     document.write("zmienna c = " + c + "<br>");
